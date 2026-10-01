@@ -169,9 +169,9 @@ The repository contains the following project files:
 * `Sales_Database_Setup.sql` — SQL script for creating the database, tables, relationships, and sample data.
 * `Sales_Analysis_50_Queries.sql` — SQL analysis questions and their queries.
 * `Sales_Database_Model.mwb` — MySQL Workbench database model.
-* `screenshots/database_schema.png` — Database schema diagram.
-* `screenshots/dashboard_preview.png` — Power BI dashboard screenshot.
-* `dashboard/Sales_Dashboard.pbix` — Power BI dashboard file.
+* `database_schema.png.png` — Database schema diagram.
+* `dashboard_preview.png` — Power BI dashboard screenshot.
+* `Sales_Dashboard.pbix` — Power BI dashboard file.
 
 ## How to Run the Project
 
