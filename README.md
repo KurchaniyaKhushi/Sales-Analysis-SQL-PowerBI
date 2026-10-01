@@ -151,9 +151,8 @@ These measures are used to display key performance indicators in the dashboard.
 
 ### Dashboard Preview
 
-Add your Power BI dashboard screenshot here.
 
-![Sales Dashboard](screenshots/dashboard_preview.png)
+![Sales Dashboard](dashboard_preview.png)
 
 ## Tools and Technologies
 
